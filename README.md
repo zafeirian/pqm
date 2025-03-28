@@ -1,2 +1,2 @@
 # pqm
-A repository for Computational Quantum Physics course
+A repository for Computational Quantum Physics course.
